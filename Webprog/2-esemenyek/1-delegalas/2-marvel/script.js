@@ -27,17 +27,25 @@ function swapMovies(li1,li2){
 function handleClick(e) {
     // console.log(this.innerText);
     const li = e.target;
+
     if(li.matches("ul li"))
     {
+
         if(!first){
+            li.classList.add("selected")
+
             first = li;
         }
         else{
+            first.classList.remove("selected")
+
             swapMovies(first,li);
             first = null;
+
         }
     }
 }
 const ul = document.querySelector("ul");
 ul.addEventListener("click", handleClick);
 
+ul.addEventListener("animatint",afterAnimation)
