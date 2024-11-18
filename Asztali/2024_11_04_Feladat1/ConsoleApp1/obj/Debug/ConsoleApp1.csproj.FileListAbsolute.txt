@@ -1,0 +1,7 @@
+H:\12\Asztali\2024_11_04_Feladat1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+H:\12\Asztali\2024_11_04_Feladat1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+H:\12\Asztali\2024_11_04_Feladat1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+H:\12\Asztali\2024_11_04_Feladat1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+H:\12\Asztali\2024_11_04_Feladat1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\12\Asztali\2024_11_04_Feladat1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+H:\12\Asztali\2024_11_04_Feladat1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
