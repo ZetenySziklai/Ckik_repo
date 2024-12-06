@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "H:\\12\\Asztali\\2024_11_07_Feladat2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEC19100-CD72-43AB-A44F-31C959DCFA48}|2024_11_07_Feladat2\\2024_11_07_Feladat2.csproj|H:\\12\\Asztali\\2024_11_07_Feladat2\\2024_11_07_feladat2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AEC19100-CD72-43AB-A44F-31C959DCFA48}|2024_11_07_Feladat2\\2024_11_07_Feladat2.csproj|h:\\12\\asztali\\2024_11_07_feladat2\\2024_11_07_feladat2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEC19100-CD72-43AB-A44F-31C959DCFA48}|2024_11_07_Feladat2\\2024_11_07_Feladat2.csproj|solutionrelative:2024_11_07_feladat2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEC19100-CD72-43AB-A44F-31C959DCFA48}|2024_11_07_Feladat2\\2024_11_07_Feladat2.csproj|h:\\12\\asztali\\2024_11_07_feladat2\\2024_11_07_feladat2\\szamitogep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEC19100-CD72-43AB-A44F-31C959DCFA48}|2024_11_07_Feladat2\\2024_11_07_Feladat2.csproj|solutionrelative:2024_11_07_feladat2\\szamitogep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEC19100-CD72-43AB-A44F-31C959DCFA48}|2024_11_07_Feladat2\\2024_11_07_Feladat2.csproj|H:\\12\\Asztali\\2024_11_07_Feladat2\\2024_11_07_Feladat2\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AEC19100-CD72-43AB-A44F-31C959DCFA48}|2024_11_07_Feladat2\\2024_11_07_Feladat2.csproj|solutionrelative:2024_11_07_Feladat2\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEC19100-CD72-43AB-A44F-31C959DCFA48}|2024_11_07_Feladat2\\2024_11_07_Feladat2.csproj|h:\\12\\asztali\\2024_11_07_feladat2\\2024_11_07_feladat2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AEC19100-CD72-43AB-A44F-31C959DCFA48}|2024_11_07_Feladat2\\2024_11_07_Feladat2.csproj|solutionrelative:2024_11_07_feladat2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{AEC19100-CD72-43AB-A44F-31C959DCFA48}|2024_11_07_Feladat2\\2024_11_07_Feladat2.csproj|H:\\12\\Asztali\\2024_11_07_Feladat2\\2024_11_07_Feladat2\\Szamitogep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC19100-CD72-43AB-A44F-31C959DCFA48}|2024_11_07_Feladat2\\2024_11_07_Feladat2.csproj|solutionrelative:2024_11_07_Feladat2\\Szamitogep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,8 +25,12 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "App.config",
               "DocumentMoniker": "H:\\12\\Asztali\\2024_11_07_Feladat2\\2024_11_07_Feladat2\\App.config",
               "RelativeDocumentMoniker": "2024_11_07_Feladat2\\App.config",
@@ -34,25 +38,19 @@
               "RelativeToolTip": "2024_11_07_Feladat2\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-08T10:39:54.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-11-08T10:39:54.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Szamitogep.cs",
               "DocumentMoniker": "H:\\12\\Asztali\\2024_11_07_Feladat2\\2024_11_07_Feladat2\\Szamitogep.cs",
               "RelativeDocumentMoniker": "2024_11_07_Feladat2\\Szamitogep.cs",
               "ToolTip": "H:\\12\\Asztali\\2024_11_07_Feladat2\\2024_11_07_Feladat2\\Szamitogep.cs",
               "RelativeToolTip": "2024_11_07_Feladat2\\Szamitogep.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T13:17:04.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T13:17:04.935Z"
             },
             {
               "$type": "Document",
@@ -62,7 +60,7 @@
               "RelativeDocumentMoniker": "2024_11_07_Feladat2\\Program.cs",
               "ToolTip": "H:\\12\\Asztali\\2024_11_07_Feladat2\\2024_11_07_Feladat2\\Program.cs",
               "RelativeToolTip": "2024_11_07_Feladat2\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAmwCEAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T13:15:51.946Z",
               "EditorCaption": ""

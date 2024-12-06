@@ -17,7 +17,7 @@ namespace _2024_11_18_OroklodesPelda
             p.Ugat();
             p.Terel();
 
-
+            //Kutya k = new Puli();
             k = p;
             k.Ugat();
             ((Puli)k).Terel();
@@ -25,19 +25,21 @@ namespace _2024_11_18_OroklodesPelda
             Console.ReadLine();
         }
     }
-    class Kutya
+
+    class Kutya //Ős osztály
     {
         public void Ugat()
         {
-            Console.WriteLine("Vau-Vau");
+            Console.WriteLine("Vau-vau");
         }
     }
 
-    class Puli: Kutya
+
+    class Puli: Kutya //Kutyából származtatott utód osztály. Csak egy ősosztály lehet!
     {
         public void Terel()
         {
-            Console.WriteLine("Álljá meg geci");
+            Console.WriteLine("Gyerünk, indulás lusta banda!");
         }
     }
 }

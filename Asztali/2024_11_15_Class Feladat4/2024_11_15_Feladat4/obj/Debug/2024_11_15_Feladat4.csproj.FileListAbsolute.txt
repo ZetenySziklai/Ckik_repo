@@ -1,0 +1,7 @@
+H:\12\Asztali\2024_11_15_Class Feladat4\2024_11_15_Feladat4\bin\Debug\2024_11_15_Feladat4.exe.config
+H:\12\Asztali\2024_11_15_Class Feladat4\2024_11_15_Feladat4\bin\Debug\2024_11_15_Feladat4.exe
+H:\12\Asztali\2024_11_15_Class Feladat4\2024_11_15_Feladat4\bin\Debug\2024_11_15_Feladat4.pdb
+H:\12\Asztali\2024_11_15_Class Feladat4\2024_11_15_Feladat4\obj\Debug\2024_11_15_Feladat4.csproj.AssemblyReference.cache
+H:\12\Asztali\2024_11_15_Class Feladat4\2024_11_15_Feladat4\obj\Debug\2024_11_15_Feladat4.csproj.CoreCompileInputs.cache
+H:\12\Asztali\2024_11_15_Class Feladat4\2024_11_15_Feladat4\obj\Debug\2024_11_15_Feladat4.exe
+H:\12\Asztali\2024_11_15_Class Feladat4\2024_11_15_Feladat4\obj\Debug\2024_11_15_Feladat4.pdb

@@ -14,6 +14,16 @@ function randint(a, b) {
 
 // --------------------------------------------
 
+function countNeighbours(sor, oszlop) {
+    for (let i = sor-1; i <= sor+1; i++) {
+        for (let j = oszlop-1; j <= oszlop+1; j++) {
+            if (0 <= i && i < n && 0 <= j && j < n && !(i === sor && j === oszlop)) {
+                board[i][j].value++;
+            }
+        }
+    }
+}
+
 function generateMines() {
     let db = 0;
     while (db < mineCount) {
@@ -21,13 +31,7 @@ function generateMines() {
         const oszlop = randint(0, n-1); // y. cella
         if (!board[sor][oszlop].isMine) {            
             board[sor][oszlop].isMine = true;
-            for (let i = sor-1; i <= sor+1; i++) {
-                for (let j = oszlop-1; j <= oszlop+1; j++) {
-                    if (0 <= i && i < n && 0 <= j && j < n && !(i === sor && j === oszlop)) {
-                        board[i][j].value++;
-                    }
-                }
-            }
+            countNeighbours(sor, oszlop);
             db++;
         }
     }
@@ -53,10 +57,10 @@ function createBoard() {
 }
 
 function getText(i, j) {
-    if (!board[i][j].isRevealed) return "";
+    if (board[i][j].isFlagged) return "🚩";
+    else if (!board[i][j].isRevealed) return "";
     else if (board[i][j].isMine) return "💣";
     else if (board[i][j].value === 0) return "";
-    else if(board[i][j].isFlagged) return "🚩";
     else return board[i][j].value;
 }
 
@@ -91,8 +95,11 @@ function revealNeighbours(i, j) {
 
 // Felfedi az (i, j) cellát! (Egy darabot!)
 function reveal(i, j) {
+    if (board[i][j].isRevealed) return;
     board[i][j].isRevealed = true;
-    revealedCount++;    
+    board[i][j].isFlagged = false;
+    revealedCount++;
+    console.log(revealedCount);
     if (board[i][j].value === 0) {
         revealNeighbours(i, j);
     }
@@ -102,31 +109,47 @@ function reveal(i, j) {
 // Felfedtük az (i, j) mezőt.
 // Ellenőrizzük, hogy véget ért-e a játék!
 function checkGameEnd(i, j) {
-    if(board[i][j].isMine){
-        table.removeEventListener("click",handleClick);
-    }
-    else if(revealedCount + mineCount=== n*n){
-        table.removeEventListener("click",handleClick);
+    if (board[i][j].isMine) {
+        console.log("Vesztettél!");
+        table.removeEventListener("click", handleClick);
+    } else if (revealedCount + mineCount === n*n) {
+        console.log("Nyertél!");
+        table.removeEventListener("click", handleClick);
     }
 }
+
+// TODO!
+// Van-e hiba?
 
 // JS objektumként: td.__proto__
 function handleClick(e) {
     const td = e.target; // i. sor j. cellája <td>
-    if(td.matches("table td")){return;}
+    if (!td.matches("table td")) return;
     const j = td.cellIndex; // Hanyadik cella = hanyadik oszlop?
     const tr = td.parentNode;
     const i = tr.rowIndex; // Hanyadik sor?
+    if (board[i][j].isFlagged) return;
     reveal(i, j);
     checkGameEnd(i, j);
 }
-function handleFlag(e){
+
+/*
+if (board[i][j].isFlagged) {
+    board[i][j].isFlagged = false;
+} else {
+    board[i][j].isFlagged = true;
+}
+*/
+function handleFlag(e) {
     e.preventDefault();
     const td = e.target;
-    const i = td.cellIndex;
+    if (!td.matches("table td")) return;
+    const j = td.cellIndex;
     const tr = td.parentNode;
-    const j = tr.cellIndex;
-    board[i][j].isFlagged = true;
+    const i = tr.rowIndex;
+    if (board[i][j].isRevealed) return;
+    board[i][j].isFlagged = !board[i][j].isFlagged;
+    showBoard();
 }
 
 function startGame() {
@@ -135,6 +158,8 @@ function startGame() {
     createBoard();
     showBoard();
     table.addEventListener("click", handleClick);
+    // Jobb gombbal kattintáskor tegyünk zászlókat!
+    table.addEventListener("contextmenu", handleFlag);
 }
 const button = document.querySelector("button");
 button.addEventListener("click", startGame);

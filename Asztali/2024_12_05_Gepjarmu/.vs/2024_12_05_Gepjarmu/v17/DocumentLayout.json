@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|h:\\12\\asztali\\2024_12_05_gepjarmu\\2024_12_05_gepjarmu\\audis8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\audis8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_gepjarmu\\jarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\jarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|h:\\12\\asztali\\2024_12_05_gepjarmu\\2024_12_05_gepjarmu\\robogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\robogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_gepjarmu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_gepjarmu\\kisgepjarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\kisgepjarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudiS8.cs",
+              "DocumentMoniker": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\AudiS8.cs",
+              "RelativeDocumentMoniker": "2024_12_05_Gepjarmu\\AudiS8.cs",
+              "ToolTip": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\AudiS8.cs",
+              "RelativeToolTip": "2024_12_05_Gepjarmu\\AudiS8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:15:40.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Robogo.cs",
+              "DocumentMoniker": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Robogo.cs",
+              "RelativeDocumentMoniker": "2024_12_05_Gepjarmu\\Robogo.cs",
+              "ToolTip": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Robogo.cs",
+              "RelativeToolTip": "2024_12_05_Gepjarmu\\Robogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:25:00.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jarmu.cs",
+              "DocumentMoniker": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Jarmu.cs",
+              "RelativeDocumentMoniker": "2024_12_05_Gepjarmu\\Jarmu.cs",
+              "ToolTip": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Jarmu.cs",
+              "RelativeToolTip": "2024_12_05_Gepjarmu\\Jarmu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:13:28.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KisGepjarmu.cs",
+              "DocumentMoniker": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\KisGepjarmu.cs",
+              "RelativeDocumentMoniker": "2024_12_05_Gepjarmu\\KisGepjarmu.cs",
+              "ToolTip": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\KisGepjarmu.cs",
+              "RelativeToolTip": "2024_12_05_Gepjarmu\\KisGepjarmu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:11:32.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Program.cs",
+              "RelativeDocumentMoniker": "2024_12_05_Gepjarmu\\Program.cs",
+              "ToolTip": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Program.cs",
+              "RelativeToolTip": "2024_12_05_Gepjarmu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:02:17.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

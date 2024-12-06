@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\2024-2025\\12.cb AAF 2csop\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\",
+  "WorkspaceRootPath": "H:\\12\\Asztali\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A22AC7D8-8F1F-4689-9EDB-8607A53DDBE7}|2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa.csproj|h:\\2024-2025\\12.cb aaf 2csop\\2024_11_14_static_felhaszn\u00E1l\u00E1sa\\2024_11_14_static_felhaszn\u00E1l\u00E1sa\\datum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A22AC7D8-8F1F-4689-9EDB-8607A53DDBE7}|2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa.csproj|h:\\12\\asztali\\2024_11_14_static_felhaszn\u00E1l\u00E1sa\\2024_11_14_static_felhaszn\u00E1l\u00E1sa\\datum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A22AC7D8-8F1F-4689-9EDB-8607A53DDBE7}|2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa.csproj|solutionrelative:2024_11_14_static_felhaszn\u00E1l\u00E1sa\\datum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A22AC7D8-8F1F-4689-9EDB-8607A53DDBE7}|2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa.csproj|H:\\2024-2025\\12.cb AAF 2csop\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\2024_11_14_static_felhaszn\u00E1l\u00E1sa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A22AC7D8-8F1F-4689-9EDB-8607A53DDBE7}|2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa.csproj|H:\\12\\Asztali\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\2024_11_14_static_felhaszn\u00E1l\u00E1sa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A22AC7D8-8F1F-4689-9EDB-8607A53DDBE7}|2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa.csproj|solutionrelative:2024_11_14_static_felhaszn\u00E1l\u00E1sa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,17 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Datum.cs",
-              "DocumentMoniker": "H:\\2024-2025\\12.cb AAF 2csop\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\Datum.cs",
+              "DocumentMoniker": "H:\\12\\Asztali\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\Datum.cs",
               "RelativeDocumentMoniker": "2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\Datum.cs",
-              "ToolTip": "H:\\2024-2025\\12.cb AAF 2csop\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\Datum.cs",
-              "RelativeToolTip": "2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\Datum.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAqAAAA",
+              "ToolTip": "H:\\12\\Asztali\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\Datum.cs*",
+              "RelativeToolTip": "2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\Datum.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T06:44:15.657Z",
               "EditorCaption": ""
@@ -37,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "H:\\2024-2025\\12.cb AAF 2csop\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\Program.cs",
+              "DocumentMoniker": "H:\\12\\Asztali\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\Program.cs",
               "RelativeDocumentMoniker": "2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\Program.cs",
-              "ToolTip": "H:\\2024-2025\\12.cb AAF 2csop\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\Program.cs",
+              "ToolTip": "H:\\12\\Asztali\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\Program.cs",
               "RelativeToolTip": "2024_11_14_Static_felhaszn\u00E1l\u00E1sa\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAA6AAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T06:25:40.211Z",
               "EditorCaption": ""
