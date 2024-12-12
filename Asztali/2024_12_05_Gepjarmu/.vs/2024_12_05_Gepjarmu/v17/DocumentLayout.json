@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|h:\\12\\asztali\\2024_12_05_gepjarmu\\2024_12_05_gepjarmu\\audis8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_gepjarmu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_gepjarmu\\robogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\robogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|h:\\12\\asztali\\2024_12_05_gepjarmu\\2024_12_05_gepjarmu\\orszagut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\orszagut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_gepjarmu\\audis8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\audis8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_gepjarmu\\kisgepjarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\kisgepjarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_gepjarmu\\jarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\jarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|h:\\12\\asztali\\2024_12_05_gepjarmu\\2024_12_05_gepjarmu\\robogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\robogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_gepjarmu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_gepjarmu\\kisgepjarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\kisgepjarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|h:\\12\\asztali\\2024_12_05_gepjarmu\\2024_12_05_gepjarmu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{46573E49-7A96-445D-A0B3-1772F92C6073}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,43 +38,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Orszagut.cs",
+              "DocumentMoniker": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Orszagut.cs",
+              "RelativeDocumentMoniker": "2024_12_05_Gepjarmu\\Orszagut.cs",
+              "ToolTip": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Orszagut.cs",
+              "RelativeToolTip": "2024_12_05_Gepjarmu\\Orszagut.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:52:56.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AudiS8.cs",
               "DocumentMoniker": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\AudiS8.cs",
               "RelativeDocumentMoniker": "2024_12_05_Gepjarmu\\AudiS8.cs",
               "ToolTip": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\AudiS8.cs",
               "RelativeToolTip": "2024_12_05_Gepjarmu\\AudiS8.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T08:15:40.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Robogo.cs",
-              "DocumentMoniker": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Robogo.cs",
-              "RelativeDocumentMoniker": "2024_12_05_Gepjarmu\\Robogo.cs",
-              "ToolTip": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Robogo.cs",
-              "RelativeToolTip": "2024_12_05_Gepjarmu\\Robogo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T13:25:00.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Jarmu.cs",
               "DocumentMoniker": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Jarmu.cs",
               "RelativeDocumentMoniker": "2024_12_05_Gepjarmu\\Jarmu.cs",
               "ToolTip": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Jarmu.cs",
               "RelativeToolTip": "2024_12_05_Gepjarmu\\Jarmu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T13:13:28.502Z",
               "EditorCaption": ""
@@ -79,23 +87,53 @@
               "RelativeDocumentMoniker": "2024_12_05_Gepjarmu\\KisGepjarmu.cs",
               "ToolTip": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\KisGepjarmu.cs",
               "RelativeToolTip": "2024_12_05_Gepjarmu\\KisGepjarmu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T13:11:32.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Program.cs",
               "RelativeDocumentMoniker": "2024_12_05_Gepjarmu\\Program.cs",
               "ToolTip": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Program.cs",
               "RelativeToolTip": "2024_12_05_Gepjarmu\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T13:02:17.74Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Robogo.cs",
+              "DocumentMoniker": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Robogo.cs",
+              "RelativeDocumentMoniker": "2024_12_05_Gepjarmu\\Robogo.cs",
+              "ToolTip": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Robogo.cs",
+              "RelativeToolTip": "2024_12_05_Gepjarmu\\Robogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:25:00.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\App.config",
+              "RelativeDocumentMoniker": "2024_12_05_Gepjarmu\\App.config",
+              "ToolTip": "H:\\12\\Asztali\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\App.config",
+              "RelativeToolTip": "2024_12_05_Gepjarmu\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-09T12:27:44.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

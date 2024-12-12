@@ -22,10 +22,8 @@ namespace _2024_12_05_Gepjarmu
             this.rendszam = rendszam;
         }
 
-        public abstract bool gyorshajtottE(int sebessegkorlat)
-        {
-            return aktsebesseg>sebessegkorlat ? true : false;
-        }
+        public abstract bool gyorshajtottE(int sebessegkorlat);
+        
         public override string ToString()
         {
             return $"{rendszam} - {aktsebesseg} km/h";

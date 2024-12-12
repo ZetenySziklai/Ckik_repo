@@ -10,6 +10,7 @@ namespace _2024_12_05_Gepjarmu
     {
         static void Main(string[] args)
         {
+            Jarmu 
         }
     }
 }

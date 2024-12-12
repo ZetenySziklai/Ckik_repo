@@ -7,21 +7,22 @@ using System.Threading.Tasks;
 
 namespace _2024_12_05_Gepjarmu
 {
-    internal class Robogo : Jarmu,IKisGepjarmu
+    internal class Robogo : Jarmu,KisGepjarmu
     {
         public int maxis;
 
         public Robogo(int maxis,int aktsebesseg, string rendszam) : base(aktsebesseg,rendszam)
         {
             this.maxis = maxis;
-            this.aktsebesseg = aktsebesseg;
-            this.rendszam = rendszam;
+            
+            
         }
 
         Robogo r1 = new Robogo(60,30,"amek-123");
-        public bool gyorsanhajtottE()
+
+        public override bool gyorshajtottE(int sebessegKorlat)
         {
-            return maxis> aktsebesseg? true:false;
+            return aktsebesseg>sebessegKorlat;
         }
         public bool haladhatItt(int hatar)
         {
