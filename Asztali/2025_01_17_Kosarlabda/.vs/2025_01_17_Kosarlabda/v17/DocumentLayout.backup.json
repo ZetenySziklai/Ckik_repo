@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\12\\Asztali\\2025_01_17_Kosarlabda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64A21394-5863-47D2-984A-ADE0EA361B85}|2025_01_17_Kosarlabda\\2025_01_17_Kosarlabda.csproj|h:\\12\\asztali\\2025_01_17_kosarlabda\\2025_01_17_kosarlabda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A21394-5863-47D2-984A-ADE0EA361B85}|2025_01_17_Kosarlabda\\2025_01_17_Kosarlabda.csproj|solutionrelative:2025_01_17_kosarlabda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A21394-5863-47D2-984A-ADE0EA361B85}|2025_01_17_Kosarlabda\\2025_01_17_Kosarlabda.csproj|H:\\12\\Asztali\\2025_01_17_Kosarlabda\\2025_01_17_kosarlabda\\eredmenyek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A21394-5863-47D2-984A-ADE0EA361B85}|2025_01_17_Kosarlabda\\2025_01_17_Kosarlabda.csproj|solutionrelative:2025_01_17_kosarlabda\\eredmenyek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Eredmenyek.cs",
+              "DocumentMoniker": "H:\\12\\Asztali\\2025_01_17_Kosarlabda\\2025_01_17_Kosarlabda\\Eredmenyek.cs",
+              "RelativeDocumentMoniker": "2025_01_17_Kosarlabda\\Eredmenyek.cs",
+              "ToolTip": "H:\\12\\Asztali\\2025_01_17_Kosarlabda\\2025_01_17_Kosarlabda\\Eredmenyek.cs*",
+              "RelativeToolTip": "2025_01_17_Kosarlabda\\Eredmenyek.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:08:23.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\12\\Asztali\\2025_01_17_Kosarlabda\\2025_01_17_Kosarlabda\\Program.cs",
+              "RelativeDocumentMoniker": "2025_01_17_Kosarlabda\\Program.cs",
+              "ToolTip": "H:\\12\\Asztali\\2025_01_17_Kosarlabda\\2025_01_17_Kosarlabda\\Program.cs",
+              "RelativeToolTip": "2025_01_17_Kosarlabda\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:01:39.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

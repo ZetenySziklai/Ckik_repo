@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2721C6AF-04EE-4FC4-953D-B377A95F288D}</ProjectGuid>
+    <ProjectGuid>{3024E31C-A5EB-4132-AE2B-18724B225C45}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_2024_12_12_Szuperhosok</RootNamespace>
     <AssemblyName>2024_12_12_Szuperhosok</AssemblyName>
@@ -44,8 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bosszuallo.cs" />
-    <Compile Include="Milliardos.cs" />
-    <Compile Include="Szuperhos.cs" />
+    <Compile Include="ISzuperhos.cs" />
+    <Compile Include="IMilliardos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

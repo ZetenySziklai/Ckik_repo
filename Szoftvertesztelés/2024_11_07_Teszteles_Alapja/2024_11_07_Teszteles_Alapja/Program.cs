@@ -11,7 +11,7 @@ namespace _2024_11_07_Teszteles_Alapja
         static void Main(string[] args)
         {
             Szamelmelet sz = new Szamelmelet(0);
-            Console.WriteLine(sz.Osztas(0,-2));
+            Console.WriteLine(sz.Osztas(-2,0));
             Console.ReadLine();
         }
     }

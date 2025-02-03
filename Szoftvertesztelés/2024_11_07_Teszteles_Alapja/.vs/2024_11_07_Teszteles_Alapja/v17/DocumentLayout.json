@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{E0014B40-7EBA-4058-8D78-3BDBFA23C54A}|2024_11_07_Teszteles_Alapja\\2024_11_07_Teszteles_Alapja.csproj|solutionrelative:2024_11_07_teszteles_alapja\\szamelmelet_teszt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0014B40-7EBA-4058-8D78-3BDBFA23C54A}|2024_11_07_Teszteles_Alapja\\2024_11_07_Teszteles_Alapja.csproj|h:\\2024-2025\\12.cb szoftvertesztel\u00E9s 2 csop\\2024_11_07_teszteles_alapja\\2024_11_07_teszteles_alapja\\szamelmelet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0014B40-7EBA-4058-8D78-3BDBFA23C54A}|2024_11_07_Teszteles_Alapja\\2024_11_07_Teszteles_Alapja.csproj|H:\\2024-2025\\12.cb Szoftvertesztel\u00E9s 2 csop\\2024_11_07_Teszteles_Alapja\\2024_11_07_teszteles_alapja\\szamelmelet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0014B40-7EBA-4058-8D78-3BDBFA23C54A}|2024_11_07_Teszteles_Alapja\\2024_11_07_Teszteles_Alapja.csproj|solutionrelative:2024_11_07_teszteles_alapja\\szamelmelet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "2024_11_07_Teszteles_Alapja\\Szamelmelet_teszt.cs",
               "ToolTip": "H:\\2024-2025\\12.cb Szoftvertesztel\u00E9s 2 csop\\2024_11_07_Teszteles_Alapja\\2024_11_07_Teszteles_Alapja\\Szamelmelet_teszt.cs",
               "RelativeToolTip": "2024_11_07_Teszteles_Alapja\\Szamelmelet_teszt.cs",
-              "ViewState": "AQIAAFYAAAAAAAAAAAAAAF8AAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T11:53:29.489Z",
               "EditorCaption": ""
@@ -45,10 +45,9 @@
               "RelativeDocumentMoniker": "2024_11_07_Teszteles_Alapja\\Szamelmelet.cs",
               "ToolTip": "H:\\2024-2025\\12.cb Szoftvertesztel\u00E9s 2 csop\\2024_11_07_Teszteles_Alapja\\2024_11_07_Teszteles_Alapja\\Szamelmelet.cs",
               "RelativeToolTip": "2024_11_07_Teszteles_Alapja\\Szamelmelet.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAAADQAAAAAAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAABgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T11:53:02.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T11:53:02.631Z"
             },
             {
               "$type": "Document",
@@ -58,10 +57,9 @@
               "RelativeDocumentMoniker": "2024_11_07_Teszteles_Alapja\\Program.cs",
               "ToolTip": "H:\\2024-2025\\12.cb Szoftvertesztel\u00E9s 2 csop\\2024_11_07_Teszteles_Alapja\\2024_11_07_Teszteles_Alapja\\Program.cs",
               "RelativeToolTip": "2024_11_07_Teszteles_Alapja\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T12:02:02.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T12:02:02.013Z"
             }
           ]
         }

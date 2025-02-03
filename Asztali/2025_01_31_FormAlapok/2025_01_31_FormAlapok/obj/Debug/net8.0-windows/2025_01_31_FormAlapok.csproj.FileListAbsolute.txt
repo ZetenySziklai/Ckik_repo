@@ -1,0 +1,17 @@
+H:\12\Asztali\2025_01_31_FormAlapok\2025_01_31_FormAlapok\obj\Debug\net8.0-windows\_2025_01_31_FormAlapok.Form1.resources
+H:\12\Asztali\2025_01_31_FormAlapok\2025_01_31_FormAlapok\obj\Debug\net8.0-windows\2025_01_31_FormAlapok.csproj.GenerateResource.cache
+H:\12\Asztali\2025_01_31_FormAlapok\2025_01_31_FormAlapok\obj\Debug\net8.0-windows\2025_01_31_FormAlapok.GeneratedMSBuildEditorConfig.editorconfig
+H:\12\Asztali\2025_01_31_FormAlapok\2025_01_31_FormAlapok\obj\Debug\net8.0-windows\2025_01_31_FormAlapok.AssemblyInfoInputs.cache
+H:\12\Asztali\2025_01_31_FormAlapok\2025_01_31_FormAlapok\obj\Debug\net8.0-windows\2025_01_31_FormAlapok.AssemblyInfo.cs
+H:\12\Asztali\2025_01_31_FormAlapok\2025_01_31_FormAlapok\obj\Debug\net8.0-windows\2025_01_31_FormAlapok.csproj.CoreCompileInputs.cache
+H:\12\Asztali\2025_01_31_FormAlapok\2025_01_31_FormAlapok\obj\Debug\net8.0-windows\2025_01_31_FormAlapok.sourcelink.json
+H:\12\Asztali\2025_01_31_FormAlapok\2025_01_31_FormAlapok\bin\Debug\net8.0-windows\2025_01_31_FormAlapok.exe
+H:\12\Asztali\2025_01_31_FormAlapok\2025_01_31_FormAlapok\bin\Debug\net8.0-windows\2025_01_31_FormAlapok.deps.json
+H:\12\Asztali\2025_01_31_FormAlapok\2025_01_31_FormAlapok\bin\Debug\net8.0-windows\2025_01_31_FormAlapok.runtimeconfig.json
+H:\12\Asztali\2025_01_31_FormAlapok\2025_01_31_FormAlapok\bin\Debug\net8.0-windows\2025_01_31_FormAlapok.dll
+H:\12\Asztali\2025_01_31_FormAlapok\2025_01_31_FormAlapok\bin\Debug\net8.0-windows\2025_01_31_FormAlapok.pdb
+H:\12\Asztali\2025_01_31_FormAlapok\2025_01_31_FormAlapok\obj\Debug\net8.0-windows\2025_01_31_FormAlapok.dll
+H:\12\Asztali\2025_01_31_FormAlapok\2025_01_31_FormAlapok\obj\Debug\net8.0-windows\refint\2025_01_31_FormAlapok.dll
+H:\12\Asztali\2025_01_31_FormAlapok\2025_01_31_FormAlapok\obj\Debug\net8.0-windows\2025_01_31_FormAlapok.pdb
+H:\12\Asztali\2025_01_31_FormAlapok\2025_01_31_FormAlapok\obj\Debug\net8.0-windows\2025_01_31_FormAlapok.genruntimeconfig.cache
+H:\12\Asztali\2025_01_31_FormAlapok\2025_01_31_FormAlapok\obj\Debug\net8.0-windows\ref\2025_01_31_FormAlapok.dll

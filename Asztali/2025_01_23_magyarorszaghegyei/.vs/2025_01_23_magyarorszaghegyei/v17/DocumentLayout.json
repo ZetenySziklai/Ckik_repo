@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\12\\Asztali\\2025_01_23_magyarorszaghegyei\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3326BEDC-C1D4-4B21-979F-08CC2CCEFFCE}|2025_01_23_magyarorszaghegyei\\2025_01_23_magyarorszaghegyei.csproj|h:\\12\\asztali\\2025_01_23_magyarorszaghegyei\\2025_01_23_magyarorszaghegyei\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3326BEDC-C1D4-4B21-979F-08CC2CCEFFCE}|2025_01_23_magyarorszaghegyei\\2025_01_23_magyarorszaghegyei.csproj|solutionrelative:2025_01_23_magyarorszaghegyei\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3326BEDC-C1D4-4B21-979F-08CC2CCEFFCE}|2025_01_23_magyarorszaghegyei\\2025_01_23_magyarorszaghegyei.csproj|H:\\12\\Asztali\\2025_01_23_magyarorszaghegyei\\2025_01_23_magyarorszaghegyei\\hegyek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3326BEDC-C1D4-4B21-979F-08CC2CCEFFCE}|2025_01_23_magyarorszaghegyei\\2025_01_23_magyarorszaghegyei.csproj|solutionrelative:2025_01_23_magyarorszaghegyei\\hegyek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hegyek.cs",
+              "DocumentMoniker": "H:\\12\\Asztali\\2025_01_23_magyarorszaghegyei\\2025_01_23_magyarorszaghegyei\\Hegyek.cs",
+              "RelativeDocumentMoniker": "2025_01_23_magyarorszaghegyei\\Hegyek.cs",
+              "ToolTip": "H:\\12\\Asztali\\2025_01_23_magyarorszaghegyei\\2025_01_23_magyarorszaghegyei\\Hegyek.cs",
+              "RelativeToolTip": "2025_01_23_magyarorszaghegyei\\Hegyek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:32:42.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\12\\Asztali\\2025_01_23_magyarorszaghegyei\\2025_01_23_magyarorszaghegyei\\Program.cs",
+              "RelativeDocumentMoniker": "2025_01_23_magyarorszaghegyei\\Program.cs",
+              "ToolTip": "H:\\12\\Asztali\\2025_01_23_magyarorszaghegyei\\2025_01_23_magyarorszaghegyei\\Program.cs*",
+              "RelativeToolTip": "2025_01_23_magyarorszaghegyei\\Program.cs*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:25:53.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

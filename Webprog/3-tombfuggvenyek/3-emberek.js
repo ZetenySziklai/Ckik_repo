@@ -1,3 +1,4 @@
+// 12 fő
 const people = [
     { name: "Dani", age: 47 },
     { name: "Kata", age: 31 },
@@ -13,44 +14,68 @@ const people = [
     { name: "Ákos", age: 29 }
 ];
 
+// F1
+console.log("F1:", people.find(p => p.age < 20));
 
-//1
-const huszevalatti = people.find(e => e.age<20);
-console.log("1",huszevalatti.name);
+// F2
+console.log("F2:", people.filter(p => p.age < 40).length);
 
-//2
-const negyvenalatti = people.filter(e => e.age<40).length;
-console.log("2",negyvenalatti);
+// F3
+// console.log("F3:", !people.some(p => p.name.length > 6));
+// Minden ember neve max 6 karakter
+console.log("F3:", people.every(p => p.name.length <= 6));
 
-//3
-const hatnalnagyobb = people.some(e => e.name.length>6);
-console.log("3",hatnalnagyobb);
+// F4
+// console.log("F4:", people.toSorted((a, b) => a.age - b.age));
+function compare(p1, p2) {
+    if (p1.age < p2.age) {
+        return -1;
+    } else if (p1.age > p2.age) {
+        return 1;
+    } else {
+        return 0;
+    }
+}
+console.log("F4:", people.toSorted(compare));
 
-//4
-const novekvo = people.toSorted((a, b) => a.age - b.age); // !!! 2023 !!!
-console.log("4",novekvo);
-//5
-const atlagelet = people.reduce((s,e) => s+e.age,0)/people.length;
-console.log("5",atlagelet.toFixed(2));
+// F5
+const atlag = people.reduce((s, p) => s + p.age, 0) / people.length;
+console.log("F5:", (atlag).toFixed(2));
 
-//6
-const idos = people.filter(e => e.age>atlagelet);
-console.log(idos.name);
+// F6
+console.log("F6:", people.filter(p => p.age > atlag).map(p => p.name));
 
-//7
-const utolsoj = people.findLast(e=>e.name[0] === "J" );
-console.log("7",utolsoj);
+// F7
+console.log("F7:", people.findLast(p => p.name[0] === "J").name);
 
-//8
-const legidosebb = people.reduce((s, e) => e.age > s ? e.age : s, 0);
-console.log("8",legidosebb);
+// F8
+console.log("F8:", people.reduce((m, p) => p.age > m.age ? p : m, people[0]));
 
-//9
-const ugyanaz = people.filter((e,i));
-const ugyanaz2 = people.filter((e, i) => people.some(???));
-console.log("9",ugyanaz2);
-//10
-const s = "a";
-const as = people.find((e,s) => s === e.name);
-const as2 = people.filter(e => e.name  === as);
-console.log("10",as2);
+// F9
+
+/*
+function vanePar(i) {
+    let j = 0;
+    while (j < people.length && !(people[j].age === people[i].age && i !== j)) {
+        j++;
+    }
+    return j < people.length;
+}
+let x = [];
+for (let i = 0; i < people.length; i++) {
+    if (vanePar(i)) {
+        x.push(people[i]);
+    }
+}
+console.log(x);
+*/
+console.log("F9:", people.filter((p, i) => people.some((p2, j) => p.age === p2.age && i !== j)));
+
+// F10
+function hasA(name) {
+    return Array.from(name).some(c => c.toUpperCase() === "A");
+}
+// console.log("F10:", people.filter(p => Array.from(p.name).some(c => c === "a" || c === "A")));
+console.log("F10:", people.filter(p => hasA(p.name)));
+
+// console.log(people.map(p => p.name.toUpperCase()));

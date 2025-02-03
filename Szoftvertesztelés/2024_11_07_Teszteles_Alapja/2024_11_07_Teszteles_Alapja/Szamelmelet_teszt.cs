@@ -80,8 +80,7 @@ namespace _2024_11_07_Teszteles_Alapja
             //double eredmeny = sz.Osztas(a, b);
             //ClassicAssert.AreEqual(0, eredmeny);
             Assert.Throws<DivideByZeroException>(() =>
-            {
-                
+            {                
                 sz.Osztas(a, b);
             });
         }
@@ -94,6 +93,30 @@ namespace _2024_11_07_Teszteles_Alapja
             sz = new Szamelmelet(a);
             double eredmeny = sz.Hatvanyozas(b);
             ClassicAssert.AreEqual(varteredmeny,eredmeny);
+        }
+
+        //[TestCase(0, -1, infinity)]
+        //public void HatvanyNullNegativKitevovel(int a, int b, double varteredmeny)
+        //{
+        //    sz = new Szamelmelet(a);
+        //    double eredmeny = sz.Hatvanyozas(b);
+        //    ClassicAssert.AreEqual(varteredmeny, eredmeny);
+        //}
+
+        [TestCaseSource(nameof(TobbTestVizsgalat))]
+        public void HatvanyMetodusMeghivassal(int a, int b, int varteredmeny)
+        {
+            sz = new Szamelmelet(a);
+            double eredmeny = sz.Hatvanyozas(b);
+            ClassicAssert.AreEqual(varteredmeny, eredmeny);
+        }
+
+        public static IEnumerable<TestCaseData> TobbTestVizsgalat()
+        {
+            yield return new TestCaseData(2, 3, 8);
+            yield return new TestCaseData(3, 4, 81);
+            yield return new TestCaseData(0, 0, 1);
+            //Yield - lehetővé teszi, hogy iterátorokat hozunk létre egyszerűen. Az iterátorok olyan objektumok, amelyek képesek "visszaadni" (return) egy-egy elemet egy kollekcióból, miközben az iteráláshoz szükséges állapotot nem kell manuálisan nyomon követnünk. A yield kulcsszó használatával a kódunk rövidebb, olvashatóbb és könnyebben karbantartható lesz.
         }
 
         [TearDown]

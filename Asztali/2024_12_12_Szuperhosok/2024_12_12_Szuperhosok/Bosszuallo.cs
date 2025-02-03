@@ -6,25 +6,23 @@ using System.Threading.Tasks;
 
 namespace _2024_12_12_Szuperhosok
 {
-    internal abstract class Bosszuallo : Szuperhos
+    internal abstract class Bosszuallo : ISzuperhos
     {
-        private float szuperero;
+        private double szuperero;
         private bool vanEGyengesege;
 
-        public Bosszuallo(float szuperero, bool vanEGyengesege)    
+        protected Bosszuallo(double szuperero, bool vanEGyengesege)
         {
             this.szuperero = szuperero;
             this.vanEGyengesege = vanEGyengesege;
         }
-        public abstract bool megmentiAVilagot();
 
-        public override bool legyoziE(int szuperhos)
+        public abstract bool megmentiAVilagot();
+        
+        public bool mekkorAzEreje()
         {
 
+            return true;
         }
-        public override
-
-
-
     }
 }

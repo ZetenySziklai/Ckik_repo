@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\12\\Asztali\\2024_12_12_Szuperhosok\\",
+  "WorkspaceRootPath": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_12_Szuperhosok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2721C6AF-04EE-4FC4-953D-B377A95F288D}|2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok.csproj|h:\\12\\asztali\\2024_12_12_szuperhosok\\2024_12_12_szuperhosok\\bosszuallo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2721C6AF-04EE-4FC4-953D-B377A95F288D}|2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok.csproj|solutionrelative:2024_12_12_szuperhosok\\bosszuallo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3024E31C-A5EB-4132-AE2B-18724B225C45}|2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok.csproj|h:\\programoz\u00E1s 12\\asztali alk\\2024_12_12_szuperhosok\\2024_12_12_szuperhosok\\bosszuallo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3024E31C-A5EB-4132-AE2B-18724B225C45}|2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok.csproj|solutionrelative:2024_12_12_szuperhosok\\bosszuallo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2721C6AF-04EE-4FC4-953D-B377A95F288D}|2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok.csproj|h:\\12\\asztali\\2024_12_12_szuperhosok\\2024_12_12_szuperhosok\\milliardos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2721C6AF-04EE-4FC4-953D-B377A95F288D}|2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok.csproj|solutionrelative:2024_12_12_szuperhosok\\milliardos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3024E31C-A5EB-4132-AE2B-18724B225C45}|2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok.csproj|H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_12_Szuperhosok\\2024_12_12_szuperhosok\\imilliardos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3024E31C-A5EB-4132-AE2B-18724B225C45}|2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok.csproj|solutionrelative:2024_12_12_szuperhosok\\imilliardos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2721C6AF-04EE-4FC4-953D-B377A95F288D}|2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok.csproj|h:\\12\\asztali\\2024_12_12_szuperhosok\\2024_12_12_szuperhosok\\szuperhos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2721C6AF-04EE-4FC4-953D-B377A95F288D}|2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok.csproj|solutionrelative:2024_12_12_szuperhosok\\szuperhos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3024E31C-A5EB-4132-AE2B-18724B225C45}|2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok.csproj|H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_12_Szuperhosok\\2024_12_12_szuperhosok\\iszuperhos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3024E31C-A5EB-4132-AE2B-18724B225C45}|2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok.csproj|solutionrelative:2024_12_12_szuperhosok\\iszuperhos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2721C6AF-04EE-4FC4-953D-B377A95F288D}|2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok.csproj|h:\\12\\asztali\\2024_12_12_szuperhosok\\2024_12_12_szuperhosok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2721C6AF-04EE-4FC4-953D-B377A95F288D}|2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok.csproj|solutionrelative:2024_12_12_szuperhosok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3024E31C-A5EB-4132-AE2B-18724B225C45}|2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok.csproj|H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_12_Szuperhosok\\2024_12_12_szuperhosok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3024E31C-A5EB-4132-AE2B-18724B225C45}|2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok.csproj|solutionrelative:2024_12_12_szuperhosok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,63 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Bosszuallo.cs",
-              "DocumentMoniker": "H:\\12\\Asztali\\2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok\\Bosszuallo.cs",
+              "DocumentMoniker": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok\\Bosszuallo.cs",
               "RelativeDocumentMoniker": "2024_12_12_Szuperhosok\\Bosszuallo.cs",
-              "ToolTip": "H:\\12\\Asztali\\2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok\\Bosszuallo.cs",
+              "ToolTip": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok\\Bosszuallo.cs",
               "RelativeToolTip": "2024_12_12_Szuperhosok\\Bosszuallo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T13:04:16.426Z",
+              "WhenOpened": "2024-12-12T12:22:34.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Milliardos.cs",
-              "DocumentMoniker": "H:\\12\\Asztali\\2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok\\Milliardos.cs",
-              "RelativeDocumentMoniker": "2024_12_12_Szuperhosok\\Milliardos.cs",
-              "ToolTip": "H:\\12\\Asztali\\2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok\\Milliardos.cs",
-              "RelativeToolTip": "2024_12_12_Szuperhosok\\Milliardos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Title": "IMilliardos.cs",
+              "DocumentMoniker": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok\\IMilliardos.cs",
+              "RelativeDocumentMoniker": "2024_12_12_Szuperhosok\\IMilliardos.cs",
+              "ToolTip": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok\\IMilliardos.cs",
+              "RelativeToolTip": "2024_12_12_Szuperhosok\\IMilliardos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T13:03:05.542Z",
+              "WhenOpened": "2024-12-12T12:21:02.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Szuperhos.cs",
-              "DocumentMoniker": "H:\\12\\Asztali\\2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok\\Szuperhos.cs",
-              "RelativeDocumentMoniker": "2024_12_12_Szuperhosok\\Szuperhos.cs",
-              "ToolTip": "H:\\12\\Asztali\\2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok\\Szuperhos.cs",
-              "RelativeToolTip": "2024_12_12_Szuperhosok\\Szuperhos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Title": "ISzuperhos.cs",
+              "DocumentMoniker": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok\\ISzuperhos.cs",
+              "RelativeDocumentMoniker": "2024_12_12_Szuperhosok\\ISzuperhos.cs",
+              "ToolTip": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok\\ISzuperhos.cs",
+              "RelativeToolTip": "2024_12_12_Szuperhosok\\ISzuperhos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T12:57:13.958Z",
+              "WhenOpened": "2024-12-12T12:17:54.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "H:\\12\\Asztali\\2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok\\Program.cs",
+              "DocumentMoniker": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok\\Program.cs",
               "RelativeDocumentMoniker": "2024_12_12_Szuperhosok\\Program.cs",
-              "ToolTip": "H:\\12\\Asztali\\2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok\\Program.cs",
+              "ToolTip": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_12_Szuperhosok\\2024_12_12_Szuperhosok\\Program.cs",
               "RelativeToolTip": "2024_12_12_Szuperhosok\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T12:56:46.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-12-12T12:16:55.273Z"
             }
           ]
         }

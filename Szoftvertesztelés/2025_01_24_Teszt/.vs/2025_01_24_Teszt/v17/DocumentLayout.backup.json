@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\12\\Szoftvertesztel\u00E9s\\2025_01_24_Teszt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{760A147F-BFB3-428E-B449-EA80442145BF}|2025_01_24_Teszt\\2025_01_24_Teszt.csproj|h:\\12\\szoftvertesztel\u00E9s\\2025_01_24_teszt\\2025_01_24_teszt\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760A147F-BFB3-428E-B449-EA80442145BF}|2025_01_24_Teszt\\2025_01_24_Teszt.csproj|solutionrelative:2025_01_24_teszt\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A147F-BFB3-428E-B449-EA80442145BF}|2025_01_24_Teszt\\2025_01_24_Teszt.csproj|h:\\12\\szoftvertesztel\u00E9s\\2025_01_24_teszt\\2025_01_24_teszt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760A147F-BFB3-428E-B449-EA80442145BF}|2025_01_24_Teszt\\2025_01_24_Teszt.csproj|solutionrelative:2025_01_24_teszt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A147F-BFB3-428E-B449-EA80442145BF}|2025_01_24_Teszt\\2025_01_24_Teszt.csproj|h:\\12\\szoftvertesztel\u00E9s\\2025_01_24_teszt\\2025_01_24_teszt\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{760A147F-BFB3-428E-B449-EA80442145BF}|2025_01_24_Teszt\\2025_01_24_Teszt.csproj|solutionrelative:2025_01_24_teszt\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A147F-BFB3-428E-B449-EA80442145BF}|2025_01_24_Teszt\\2025_01_24_Teszt.csproj|h:\\12\\szoftvertesztel\u00E9s\\2025_01_24_teszt\\2025_01_24_teszt\\teszt_bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760A147F-BFB3-428E-B449-EA80442145BF}|2025_01_24_Teszt\\2025_01_24_Teszt.csproj|solutionrelative:2025_01_24_teszt\\teszt_bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "packages.config",
+              "DocumentMoniker": "H:\\12\\Szoftvertesztel\u00E9s\\2025_01_24_Teszt\\2025_01_24_Teszt\\packages.config",
+              "RelativeDocumentMoniker": "2025_01_24_Teszt\\packages.config",
+              "ToolTip": "H:\\12\\Szoftvertesztel\u00E9s\\2025_01_24_Teszt\\2025_01_24_Teszt\\packages.config",
+              "RelativeToolTip": "2025_01_24_Teszt\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-24T08:39:11.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teszt_BankAccount.cs",
+              "DocumentMoniker": "H:\\12\\Szoftvertesztel\u00E9s\\2025_01_24_Teszt\\2025_01_24_Teszt\\Teszt_BankAccount.cs",
+              "RelativeDocumentMoniker": "2025_01_24_Teszt\\Teszt_BankAccount.cs",
+              "ToolTip": "H:\\12\\Szoftvertesztel\u00E9s\\2025_01_24_Teszt\\2025_01_24_Teszt\\Teszt_BankAccount.cs",
+              "RelativeToolTip": "2025_01_24_Teszt\\Teszt_BankAccount.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAawDIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T08:15:54.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "H:\\12\\Szoftvertesztel\u00E9s\\2025_01_24_Teszt\\2025_01_24_Teszt\\BankAccount.cs",
+              "RelativeDocumentMoniker": "2025_01_24_Teszt\\BankAccount.cs",
+              "ToolTip": "H:\\12\\Szoftvertesztel\u00E9s\\2025_01_24_Teszt\\2025_01_24_Teszt\\BankAccount.cs",
+              "RelativeToolTip": "2025_01_24_Teszt\\BankAccount.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T08:15:38.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\12\\Szoftvertesztel\u00E9s\\2025_01_24_Teszt\\2025_01_24_Teszt\\Program.cs",
+              "RelativeDocumentMoniker": "2025_01_24_Teszt\\Program.cs",
+              "ToolTip": "H:\\12\\Szoftvertesztel\u00E9s\\2025_01_24_Teszt\\2025_01_24_Teszt\\Program.cs",
+              "RelativeToolTip": "2025_01_24_Teszt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T08:14:15.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -12,8 +12,7 @@ namespace _2024_11_20_Szuperhosok
         public static List<IMilliardos> szuperhosok = new List<IMilliardos>();
         public static void Szereplok(string path)
         {
-            try
-            {
+            
                 StreamReader sr = new StreamReader(path);
 
                 while (!sr.EndOfStream)
@@ -21,15 +20,8 @@ namespace _2024_11_20_Szuperhosok
                     szuperhosok.Add(SzuperhosKeszit(sr.ReadLine()));
                 }
                 sr.Close();
-            }
-            catch (IOException e)
-            {
-                Console.WriteLine(e.Message + "\nHiba történt a fájlbeovlasás során!");
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e.Message + "\nHiba történt!");
-            }
+            
+            
         }
 
         private static IMilliardos SzuperhosKeszit(string line)

@@ -1,0 +1,7 @@
+H:\12\Asztali\2025_01_23_magyarorszaghegyei\2025_01_23_magyarorszaghegyei\bin\Debug\2025_01_23_magyarorszaghegyei.exe.config
+H:\12\Asztali\2025_01_23_magyarorszaghegyei\2025_01_23_magyarorszaghegyei\bin\Debug\2025_01_23_magyarorszaghegyei.exe
+H:\12\Asztali\2025_01_23_magyarorszaghegyei\2025_01_23_magyarorszaghegyei\bin\Debug\2025_01_23_magyarorszaghegyei.pdb
+H:\12\Asztali\2025_01_23_magyarorszaghegyei\2025_01_23_magyarorszaghegyei\obj\Debug\2025_01_23_magyarorszaghegyei.csproj.AssemblyReference.cache
+H:\12\Asztali\2025_01_23_magyarorszaghegyei\2025_01_23_magyarorszaghegyei\obj\Debug\2025_01_23_magyarorszaghegyei.csproj.CoreCompileInputs.cache
+H:\12\Asztali\2025_01_23_magyarorszaghegyei\2025_01_23_magyarorszaghegyei\obj\Debug\2025_01_23_magyarorszaghegyei.exe
+H:\12\Asztali\2025_01_23_magyarorszaghegyei\2025_01_23_magyarorszaghegyei\obj\Debug\2025_01_23_magyarorszaghegyei.pdb
