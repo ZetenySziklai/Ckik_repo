@@ -1,0 +1,10 @@
+H:\12\Asztali\2025_02_21_Elemekgeneralasa\2025_02_21_Elemekgeneralasa\bin\Debug\2025_02_21_Elemekgeneralasa.exe.config
+H:\12\Asztali\2025_02_21_Elemekgeneralasa\2025_02_21_Elemekgeneralasa\bin\Debug\2025_02_21_Elemekgeneralasa.exe
+H:\12\Asztali\2025_02_21_Elemekgeneralasa\2025_02_21_Elemekgeneralasa\bin\Debug\2025_02_21_Elemekgeneralasa.pdb
+H:\12\Asztali\2025_02_21_Elemekgeneralasa\2025_02_21_Elemekgeneralasa\obj\Debug\2025_02_21_Elemekgeneralasa.csproj.AssemblyReference.cache
+H:\12\Asztali\2025_02_21_Elemekgeneralasa\2025_02_21_Elemekgeneralasa\obj\Debug\_2025_02_21_Elemekgeneralasa.Form1.resources
+H:\12\Asztali\2025_02_21_Elemekgeneralasa\2025_02_21_Elemekgeneralasa\obj\Debug\_2025_02_21_Elemekgeneralasa.Properties.Resources.resources
+H:\12\Asztali\2025_02_21_Elemekgeneralasa\2025_02_21_Elemekgeneralasa\obj\Debug\2025_02_21_Elemekgeneralasa.csproj.GenerateResource.cache
+H:\12\Asztali\2025_02_21_Elemekgeneralasa\2025_02_21_Elemekgeneralasa\obj\Debug\2025_02_21_Elemekgeneralasa.csproj.CoreCompileInputs.cache
+H:\12\Asztali\2025_02_21_Elemekgeneralasa\2025_02_21_Elemekgeneralasa\obj\Debug\2025_02_21_Elemekgeneralasa.exe
+H:\12\Asztali\2025_02_21_Elemekgeneralasa\2025_02_21_Elemekgeneralasa\obj\Debug\2025_02_21_Elemekgeneralasa.pdb

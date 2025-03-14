@@ -1,0 +1,43 @@
+﻿<Window x:Class="_2025_03_12_WPFalapok.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2025_03_12_WPFalapok"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="504" Width="1185">
+    <Grid Margin="142,51,119,40" Background="#FFB4B4B4">
+        <Button  Margin="121,83,142,188" RenderTransformOrigin="0.5,0.5" Click="kutya2">
+            <Grid>
+                <CheckBox Content="buttonbox" Margin="-261,41,261,-42" Click="kutya"/>
+                <CheckBox Content="buttonbox" Margin="-261,0,261,0"/>
+                <CheckBox Content="buttonbox" Margin="-261,-33,15,33" />
+                
+
+            </Grid>
+        </Button>
+        <Label Name="label1" Content="Label" HorizontalAlignment="Left" Margin="35,10"/>
+        <ListBox Margin="160,278,160,58">
+            <CheckBox Content="=checkbox1"/>
+            <RadioButton Content="radiobutton1"/>
+            <Button Content="button2">
+                <Button.Background>
+                    <SolidColorBrush>
+                        <SolidColorBrush.Color>
+                            <Color>
+                            <Color.R>255</Color.R>
+                            <Color.G>0</Color.G>
+                            <Color.B>0</Color.B>
+                            <Color.A>255</Color.A>
+                            </Color>
+                        </SolidColorBrush.Color>
+                    </SolidColorBrush>
+                </Button.Background>
+                
+            </Button>
+        </ListBox>
+
+
+
+    </Grid>
+</Window>

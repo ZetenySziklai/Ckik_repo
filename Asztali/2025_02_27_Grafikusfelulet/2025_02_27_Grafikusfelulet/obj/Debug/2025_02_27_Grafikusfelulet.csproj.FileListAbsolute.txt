@@ -1,0 +1,10 @@
+H:\12\Asztali\2025_02_27_Grafikusfelulet\2025_02_27_Grafikusfelulet\bin\Debug\2025_02_27_Grafikusfelulet.exe.config
+H:\12\Asztali\2025_02_27_Grafikusfelulet\2025_02_27_Grafikusfelulet\bin\Debug\2025_02_27_Grafikusfelulet.exe
+H:\12\Asztali\2025_02_27_Grafikusfelulet\2025_02_27_Grafikusfelulet\bin\Debug\2025_02_27_Grafikusfelulet.pdb
+H:\12\Asztali\2025_02_27_Grafikusfelulet\2025_02_27_Grafikusfelulet\obj\Debug\2025_02_27_Grafikusfelulet.csproj.AssemblyReference.cache
+H:\12\Asztali\2025_02_27_Grafikusfelulet\2025_02_27_Grafikusfelulet\obj\Debug\_2025_02_27_Grafikusfelulet.Form1.resources
+H:\12\Asztali\2025_02_27_Grafikusfelulet\2025_02_27_Grafikusfelulet\obj\Debug\_2025_02_27_Grafikusfelulet.Properties.Resources.resources
+H:\12\Asztali\2025_02_27_Grafikusfelulet\2025_02_27_Grafikusfelulet\obj\Debug\2025_02_27_Grafikusfelulet.csproj.GenerateResource.cache
+H:\12\Asztali\2025_02_27_Grafikusfelulet\2025_02_27_Grafikusfelulet\obj\Debug\2025_02_27_Grafikusfelulet.csproj.CoreCompileInputs.cache
+H:\12\Asztali\2025_02_27_Grafikusfelulet\2025_02_27_Grafikusfelulet\obj\Debug\2025_02_27_Grafikusfelulet.exe
+H:\12\Asztali\2025_02_27_Grafikusfelulet\2025_02_27_Grafikusfelulet\obj\Debug\2025_02_27_Grafikusfelulet.pdb
