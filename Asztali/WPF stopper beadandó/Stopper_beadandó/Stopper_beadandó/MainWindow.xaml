@@ -1,0 +1,41 @@
+﻿<Window x:Class="Stopper_beadandó.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Stopper_beadandó"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="497" Width="319" WindowStyle="None">
+    <Grid Margin="0,0,0,0" Background="Black">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label x:Name="TimeLabel" Content="00:00:00" FontSize="36" HorizontalAlignment="Center" Margin="0,62,0,366" Background="{x:Null}" Foreground="White" Width="142"/>
+        <Button Content="X" Margin="263,0,0,461" Background="#FFC7C7C7" Click="Button_Click" />
+        <Button Name="cancel" Content="Cancel"  HorizontalAlignment="Left" Margin="42,386,0,0" VerticalAlignment="Top" Width="60" Height="60" Foreground="White" Click="cancel_Click" Background="#666666" >
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="50"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+
+        <Button Name="start" Content="Start" HorizontalAlignment="Left" Margin="213,386,0,0" VerticalAlignment="Top" Width="60" Background="#FF479C04" Foreground="#FFA3FF5E" Height="60" Click="Button_Click_1">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="50"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <ListBox Name="LapTime" Margin="61,136,46,167" Background="Black" Foreground="White" BorderBrush="Black"/>
+        <ComboBox Name="Themes" HorizontalAlignment="Center" Margin="0,465,0,0" VerticalAlignment="Top" Width="120" Background="Black" BorderBrush="Black" SelectionChanged="Themes_SelectionChanged">
+            <ComboBoxItem Content="light"/>
+            <ComboBoxItem Content="dark"/>
+            <ComboBoxItem Content="custom"/>
+        </ComboBox>
+
+    </Grid>
+</Window>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2025_01_31_FormAlapok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c925d46ae92a158f2dd09353a2f3e7a1c88acf7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e9dacc19a1a6b04fc424b6cac46673e108eb551")]
 [assembly: System.Reflection.AssemblyProductAttribute("2025_01_31_FormAlapok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2025_01_31_FormAlapok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\12\\Asztali\\2025_03_20_Esemenyek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBD226A-A37A-4B5D-A0E4-619F9B55CE9C}|2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj|h:\\12\\asztali\\2025_03_20_esemenyek\\2025_03_20_esemenyek\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBD226A-A37A-4B5D-A0E4-619F9B55CE9C}|2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj|solutionrelative:2025_03_20_esemenyek\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBD226A-A37A-4B5D-A0E4-619F9B55CE9C}|2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj|h:\\12\\asztali\\2025_03_20_esemenyek\\2025_03_20_esemenyek\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CEBD226A-A37A-4B5D-A0E4-619F9B55CE9C}|2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj|solutionrelative:2025_03_20_esemenyek\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBD226A-A37A-4B5D-A0E4-619F9B55CE9C}|2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj|h:\\12\\asztali\\2025_03_20_esemenyek\\2025_03_20_esemenyek\\myviwemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBD226A-A37A-4B5D-A0E4-619F9B55CE9C}|2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj|solutionrelative:2025_03_20_esemenyek\\myviwemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBD226A-A37A-4B5D-A0E4-619F9B55CE9C}|2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj|h:\\12\\asztali\\2025_03_20_esemenyek\\2025_03_20_esemenyek\\actioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBD226A-A37A-4B5D-A0E4-619F9B55CE9C}|2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj|solutionrelative:2025_03_20_esemenyek\\actioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBD226A-A37A-4B5D-A0E4-619F9B55CE9C}|2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj|h:\\12\\asztali\\2025_03_20_esemenyek\\2025_03_20_esemenyek\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CEBD226A-A37A-4B5D-A0E4-619F9B55CE9C}|2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj|solutionrelative:2025_03_20_esemenyek\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBD226A-A37A-4B5D-A0E4-619F9B55CE9C}|2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj|h:\\12\\asztali\\2025_03_20_esemenyek\\2025_03_20_esemenyek\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBD226A-A37A-4B5D-A0E4-619F9B55CE9C}|2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj|solutionrelative:2025_03_20_esemenyek\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBD226A-A37A-4B5D-A0E4-619F9B55CE9C}|2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj|h:\\12\\asztali\\2025_03_20_esemenyek\\2025_03_20_esemenyek\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBD226A-A37A-4B5D-A0E4-619F9B55CE9C}|2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj|solutionrelative:2025_03_20_esemenyek\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\12\\Asztali\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBD226A-A37A-4B5D-A0E4-619F9B55CE9C}|2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj|h:\\12\\asztali\\2025_03_20_esemenyek\\2025_03_20_esemenyek\\2025_03_20_esemenyek.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CEBD226A-A37A-4B5D-A0E4-619F9B55CE9C}|2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj|solutionrelative:2025_03_20_esemenyek\\2025_03_20_esemenyek.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\12\\Asztali\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "2025_03_20_Esemenyek\\MainWindow.xaml",
+              "ToolTip": "H:\\12\\Asztali\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek\\MainWindow.xaml",
+              "RelativeToolTip": "2025_03_20_Esemenyek\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T12:13:54.519Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyViweModel.cs",
+              "DocumentMoniker": "H:\\12\\Asztali\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek\\MyViweModel.cs",
+              "RelativeDocumentMoniker": "2025_03_20_Esemenyek\\MyViweModel.cs",
+              "ToolTip": "H:\\12\\Asztali\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek\\MyViweModel.cs",
+              "RelativeToolTip": "2025_03_20_Esemenyek\\MyViweModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:24:37.526Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "H:\\12\\Asztali\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "2025_03_20_Esemenyek\\MainWindow.xaml.cs",
+              "ToolTip": "H:\\12\\Asztali\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek\\MainWindow.xaml.cs",
+              "RelativeToolTip": "2025_03_20_Esemenyek\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:13:54.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActionCommand.cs",
+              "DocumentMoniker": "H:\\12\\Asztali\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek\\ActionCommand.cs",
+              "RelativeDocumentMoniker": "2025_03_20_Esemenyek\\ActionCommand.cs",
+              "ToolTip": "H:\\12\\Asztali\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek\\ActionCommand.cs",
+              "RelativeToolTip": "2025_03_20_Esemenyek\\ActionCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:44:32.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "H:\\12\\Asztali\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek\\App.xaml",
+              "RelativeDocumentMoniker": "2025_03_20_Esemenyek\\App.xaml",
+              "ToolTip": "H:\\12\\Asztali\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek\\App.xaml",
+              "RelativeToolTip": "2025_03_20_Esemenyek\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-26T09:52:01.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "H:\\12\\Asztali\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek\\App.xaml.cs",
+              "RelativeDocumentMoniker": "2025_03_20_Esemenyek\\App.xaml.cs",
+              "ToolTip": "H:\\12\\Asztali\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek\\App.xaml.cs",
+              "RelativeToolTip": "2025_03_20_Esemenyek\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:51:48.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "H:\\12\\Asztali\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "2025_03_20_Esemenyek\\AssemblyInfo.cs",
+              "ToolTip": "H:\\12\\Asztali\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek\\AssemblyInfo.cs",
+              "RelativeToolTip": "2025_03_20_Esemenyek\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:46:21.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "2025_03_20_Esemenyek.csproj.user",
+              "DocumentMoniker": "H:\\12\\Asztali\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj.user",
+              "RelativeDocumentMoniker": "2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj.user",
+              "ToolTip": "H:\\12\\Asztali\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj.user",
+              "RelativeToolTip": "2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-03-26T09:51:43.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "2025_03_20_Esemenyek.csproj",
+              "DocumentMoniker": "H:\\12\\Asztali\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj",
+              "RelativeDocumentMoniker": "2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj",
+              "ToolTip": "H:\\12\\Asztali\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj",
+              "RelativeToolTip": "2025_03_20_Esemenyek\\2025_03_20_Esemenyek.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T10:24:53.845Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

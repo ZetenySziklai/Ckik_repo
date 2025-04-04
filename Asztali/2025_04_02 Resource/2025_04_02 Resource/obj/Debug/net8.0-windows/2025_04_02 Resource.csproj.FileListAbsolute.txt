@@ -1,0 +1,24 @@
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\bin\Debug\net8.0-windows\2025_04_02 Resource.exe
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\bin\Debug\net8.0-windows\2025_04_02 Resource.dll.config
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\bin\Debug\net8.0-windows\2025_04_02 Resource.deps.json
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\bin\Debug\net8.0-windows\2025_04_02 Resource.runtimeconfig.json
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\bin\Debug\net8.0-windows\2025_04_02 Resource.dll
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\bin\Debug\net8.0-windows\2025_04_02 Resource.pdb
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\obj\Debug\net8.0-windows\Dictionary1.baml
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\obj\Debug\net8.0-windows\App.g.cs
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\obj\Debug\net8.0-windows\2025_04_02 Resource_MarkupCompile.cache
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\obj\Debug\net8.0-windows\2025_04_02 Resource_MarkupCompile.lref
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\obj\Debug\net8.0-windows\App.baml
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\obj\Debug\net8.0-windows\MainWindow.baml
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\obj\Debug\net8.0-windows\2025_04_02 Resource.g.resources
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\obj\Debug\net8.0-windows\2025_04_02 Resource.GeneratedMSBuildEditorConfig.editorconfig
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\obj\Debug\net8.0-windows\2025_04_02 Resource.AssemblyInfoInputs.cache
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\obj\Debug\net8.0-windows\2025_04_02 Resource.AssemblyInfo.cs
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\obj\Debug\net8.0-windows\2025_04_02 Resource.csproj.CoreCompileInputs.cache
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\obj\Debug\net8.0-windows\2025_04_02 Resource.sourcelink.json
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\obj\Debug\net8.0-windows\2025_04_02 Resource.dll
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\obj\Debug\net8.0-windows\refint\2025_04_02 Resource.dll
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\obj\Debug\net8.0-windows\2025_04_02 Resource.pdb
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\obj\Debug\net8.0-windows\2025_04_02 Resource.genruntimeconfig.cache
+H:\12\Asztali\2025_04_02 Resource\2025_04_02 Resource\obj\Debug\net8.0-windows\ref\2025_04_02 Resource.dll

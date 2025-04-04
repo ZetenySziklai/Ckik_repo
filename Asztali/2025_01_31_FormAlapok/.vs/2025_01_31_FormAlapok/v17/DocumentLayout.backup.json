@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "H:\\12\\Asztali\\2025_01_31_FormAlapok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1095A320-1B96-47E0-B5DA-9E830E33A708}|2025_01_31_FormAlapok\\2025_01_31_FormAlapok.csproj|h:\\12\\asztali\\2025_01_31_formalapok\\2025_01_31_formalapok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1095A320-1B96-47E0-B5DA-9E830E33A708}|2025_01_31_FormAlapok\\2025_01_31_FormAlapok.csproj|H:\\12\\Asztali\\2025_01_31_FormAlapok\\2025_01_31_formalapok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1095A320-1B96-47E0-B5DA-9E830E33A708}|2025_01_31_FormAlapok\\2025_01_31_FormAlapok.csproj|solutionrelative:2025_01_31_formalapok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1095A320-1B96-47E0-B5DA-9E830E33A708}|2025_01_31_FormAlapok\\2025_01_31_FormAlapok.csproj|h:\\12\\asztali\\2025_01_31_formalapok\\2025_01_31_formalapok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1095A320-1B96-47E0-B5DA-9E830E33A708}|2025_01_31_FormAlapok\\2025_01_31_FormAlapok.csproj|solutionrelative:2025_01_31_formalapok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1095A320-1B96-47E0-B5DA-9E830E33A708}|2025_01_31_FormAlapok\\2025_01_31_FormAlapok.csproj|h:\\12\\asztali\\2025_01_31_formalapok\\2025_01_31_formalapok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1095A320-1B96-47E0-B5DA-9E830E33A708}|2025_01_31_FormAlapok\\2025_01_31_FormAlapok.csproj|solutionrelative:2025_01_31_formalapok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1095A320-1B96-47E0-B5DA-9E830E33A708}|2025_01_31_FormAlapok\\2025_01_31_FormAlapok.csproj|h:\\12\\asztali\\2025_01_31_formalapok\\2025_01_31_formalapok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1095A320-1B96-47E0-B5DA-9E830E33A708}|2025_01_31_FormAlapok\\2025_01_31_FormAlapok.csproj|solutionrelative:2025_01_31_formalapok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1095A320-1B96-47E0-B5DA-9E830E33A708}|2025_01_31_FormAlapok\\2025_01_31_FormAlapok.csproj|h:\\12\\asztali\\2025_01_31_formalapok\\2025_01_31_formalapok\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -40,27 +36,27 @@
               "RelativeDocumentMoniker": "2025_01_31_FormAlapok\\Form1.Designer.cs",
               "ToolTip": "H:\\12\\Asztali\\2025_01_31_FormAlapok\\2025_01_31_FormAlapok\\Form1.Designer.cs",
               "RelativeToolTip": "2025_01_31_FormAlapok\\Form1.Designer.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAewCcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T08:25:17.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "H:\\12\\Asztali\\2025_01_31_FormAlapok\\2025_01_31_FormAlapok\\Form1.cs",
               "RelativeDocumentMoniker": "2025_01_31_FormAlapok\\Form1.cs",
               "ToolTip": "H:\\12\\Asztali\\2025_01_31_FormAlapok\\2025_01_31_FormAlapok\\Form1.cs",
               "RelativeToolTip": "2025_01_31_FormAlapok\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T08:23:47.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\12\\Asztali\\2025_01_31_FormAlapok\\2025_01_31_FormAlapok\\Program.cs",
               "RelativeDocumentMoniker": "2025_01_31_FormAlapok\\Program.cs",
@@ -68,8 +64,7 @@
               "RelativeToolTip": "2025_01_31_FormAlapok\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T08:20:44.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T08:20:44.247Z"
             },
             {
               "$type": "Document",
